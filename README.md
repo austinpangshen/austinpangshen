@@ -44,7 +44,7 @@ I also develop software beyond security testing, with an interest in application
 
 **Development & Frameworks**
 
-`Flask` `Node.js` `Git` `GitHub` `VS Code``Visual Studio`
+`Flask` `Node.js` `Git` `GitHub` `VS Code` `Visual Studio`
 
 ---
 
