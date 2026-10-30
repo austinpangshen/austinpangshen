@@ -30,7 +30,7 @@ Previously worked as an IT Security Trainee, with exposure to information securi
 
 **Security Tools & Technologies**
 
-`Kali Linux` `Nmap` `Nikto` `SQLmap` `OWASP ZAP` `Metasploit` ParrotOS Hydra
+`Kali Linux` `Nmap` `Nikto` `SQLmap` `OWASP ZAP` `Metasploit` `ParrotOS` `Hydra`
 
 ---
 
